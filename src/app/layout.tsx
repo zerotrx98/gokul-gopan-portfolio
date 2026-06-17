@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Gokul Gopan | Flutter Developer",
   description:
-    "Portfolio of Gokul Gopan, a Flutter developer with 3+ years of experience building enterprise Android and iOS applications.",
+    "Gokul Gopan builds production Flutter apps for enterprise field operations — safety, permits, attendance, logistics, and workforce workflows across oil & gas and public-sector teams.",
 };
 
 export default function RootLayout({
